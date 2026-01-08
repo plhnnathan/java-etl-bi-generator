@@ -22,4 +22,4 @@ This project is a Java-based **ETL (Extract, Transform, Load)** tool designed to
 * `lib/`: Dependency management.
 
 ## 📧 Contact
-Nathan Chaia | [LinkedIn](www.linkedin.com/in/nathan-chaia-ba57773a2)
+Nathan Chaia | [LinkedIn]((https://www.linkedin.com/in/nathan-chaia-ba57773a2)
